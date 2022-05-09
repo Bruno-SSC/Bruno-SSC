@@ -1,19 +1,21 @@
 
-<h1 > <-- THIS GUY OVER THERE, IT'S ME 😎 </h1>
+<h1 align="center"> <img src="/assets/seta.png"/> THIS GUY OVER THERE, IT'S ME 😎 </h1>
 
- ##
+ <img align="right" height="160px" src="/assets/gato.gif">
+
+ <div style>
+ <li align="left" > 🦾 be better than I was yesterday </li>
+ <li align="left" > 🏭 chasing my dreams</li>
+ <li align="left" > 🧗‍ im beginner, everyday searching for growth</li>
+ <li align="left" > ⚡ on my way to be a full stack sênior </li>
+ <li align="left" > 🐞 others get hugs, i get bugs in my code </li>
+ </div>
  
- <li>🦾 be better than I was yesterday </li>
- <li> 🏭 chasing my dreams</li>
- <li> 🧗‍ im beginner, everyday searching for growth</li>
- <li> ⚡ on my way to be a full stack sênior </li>
- <li>🐞 others get hugs, i get bugs in my code </li>
- 
- ##
+## 
+
+<div align="center" >
  
  <h3 align="center"> My Scout🛡 </h3>
-
-<div style="display: inline-block" align="center" >
 
 <img align="left" height="60px" src="/assets/swords.png"/>
  
@@ -29,18 +31,21 @@
 
 ##
 
+<h3 align="center">📱 Social </h3>
+
  <a href="https://www.linkedin.com/in/bruno-velkia-652650200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ##
+ 
+<h3 align="center">🐍 Commit eater </h3>
+ 
 
  ![Snake animation](https://github.com/Bruno-SSC/Bruno-SSC/blob/output/github-contribution-grid-snake.svg)
 
  ##
  
-<h3 align="center">Fontes de conhecimento e material 📚</h3>
+<h3 align="center">Fontes de conhecimento e material 📚(créditos)</h3>
 
- ##
- 
  <div>
  <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>  </li>
  <li><a href="https://github.com/rafaballerini">Rafaella Ballerini</a></li>
@@ -50,7 +55,7 @@
 
 ##
 
-## ⚙️ &nbsp;GitHub Analytics
+<h3 align="center">⚙️ GitHub Analytics</h3>
 
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react"/>
@@ -60,6 +65,9 @@
 <br><br>
 
  ##
+ 
+<br><br>
+ 
  
  <div align="center">
 <img  height="300px" src="/assets/banner.png"/>
