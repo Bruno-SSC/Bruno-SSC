@@ -3,11 +3,13 @@
 
  ##
  
- <li>🦾 Diary: be better than I was yesterday </li>
+ <div align="center">
+ <li>🦾 be better than I was yesterday </li>
  <li> 🏭 chasing my dreams</li>
  <li> 🧗‍ im beginner, everyday searching for growth</li>
  <li> ⚡ on my way to be a full stack sênior </li>
- <li>🐞 Fun fact: others get hugs, i get bugs in my code </li>
+ <li>🐞 others get hugs, i get bugs in my code </li>
+ </div>
  
  ##
  
@@ -35,17 +37,32 @@
 
  ![Snake animation](https://github.com/Bruno-SSC/Bruno-SSC/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">Créditos</h3>
+ ##
+ 
+<h3 align="center">Fontes de conhecimento e material 📚</h3>
 
  ##
  
  <div>
- <li align="left"><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>  </li>
- <li align="left"><a href="https://github.com/rafaballerini">Rafaella Ballerini</a></li>
- <li align="left"><a href="https://www.flaticon.com/br/icones-gratis/espada">Icone das espadas</a></li>
+ <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>  </li>
+ <li><a href="https://github.com/rafaballerini">Rafaella Ballerini</a></li>
+ <li><a href="https://github.com/maykbrito">Mayk Brito</a></li>
+ <li><a href="https://www.flaticon.com/br/icones-gratis/espada">Icone das espadas</a></li>
 </div>
 
 ##
 
-<img align="center" src="/assets/banner.png"/>
+## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react"/>
+</p>
+
+<br><br>
+
+ ##
+ 
+ <div align="center">
+<img  height="300px" src="/assets/banner.png"/>
+ </div>
