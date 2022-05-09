@@ -9,4 +9,4 @@
 <img height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
- ![Snake animation](https://github.com/rafaballerini/Bruno-SSC/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Bruno-SSC/Bruno-SSC/blob/output/github-contribution-grid-snake.svg)
