@@ -3,17 +3,10 @@
 
 -  Diary: be better than I was yesterday 🦾
 -  Fun fact: others get hugs, i get bugs in my code 🐞
-<style>
-    .escudaria{
-
-        display: inline-block;
-
-    }
-
-    </style>
 
 ## My Scout
-<div class="escudaria" >
+
+<div style="display: inline-block" >
 
 <img align="center" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
