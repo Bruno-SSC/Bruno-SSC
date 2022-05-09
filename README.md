@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="/assets/seta.png"/> THIS GUY OVER THERE, IT'S ME 😎 </h1>
+ <h1 align="center"> <img height="40px" align="left" src="/assets/seta.png"/> THIS GUY OVER THERE, IT'S ME 😎 </h1>
 
  <img align="right" height="160px" src="/assets/gato.gif">
 
