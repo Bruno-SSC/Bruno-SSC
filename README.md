@@ -1,15 +1,13 @@
 
-<h1 align="center"> <-- THIS GUY OVER THERE, IT'S ME 😎 </h1>
+<h1 > <-- THIS GUY OVER THERE, IT'S ME 😎 </h1>
 
  ##
  
- <div align="center">
  <li>🦾 be better than I was yesterday </li>
  <li> 🏭 chasing my dreams</li>
  <li> 🧗‍ im beginner, everyday searching for growth</li>
  <li> ⚡ on my way to be a full stack sênior </li>
  <li>🐞 others get hugs, i get bugs in my code </li>
- </div>
  
  ##
  
