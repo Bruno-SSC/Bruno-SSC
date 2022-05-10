@@ -20,9 +20,9 @@
 <img align="left" height="60px" src="/assets/swords.png"/>
  
 <img align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
+X
 <img align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
+X
 <img align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img align="right" height="60px" src="/assets/swords.png"/>
@@ -31,13 +31,13 @@
 
 ##
 
-<h3 align="center">📱 Social </h3>
+<h3 align="center"> Social 📱</h3>
 
  <a href="https://www.linkedin.com/in/bruno-velkia-652650200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ##
  
-<h3 align="center">🐍 Commit eater </h3>
+<h3 align="center"> Commit eater 🐍</h3>
  
 
  ![Snake animation](https://github.com/Bruno-SSC/Bruno-SSC/blob/output/github-contribution-grid-snake.svg)
@@ -55,7 +55,7 @@
 
 ##
 
-<h3 align="center">⚙️ GitHub Analytics</h3>
+<h3 align="center"> GitHub Analytics ⚙️</h3>
 
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react"/>
@@ -68,7 +68,7 @@
  
 <br><br>
 
-<h3 align="center" color="green"> Destaques </h3>
+<h3 align="center" color="green"> Destaques 🔰</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Academia_infinity)](https://github.com/Bruno-SSC/Academia_infinity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Academia_infinity&theme=react&border_radius=30)](https://github.com/Bruno-SSC/Academia_infinity)
 
