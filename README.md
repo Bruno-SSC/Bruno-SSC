@@ -67,8 +67,8 @@
  ##
  
 <br><br>
- 
- 
- <div align="center">
-<img  height="300px" src="/assets/banner.png"/>
- </div>
+
+<h3 align="center" color="green"> Destaques </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Academia_infinity)](https://github.com/Bruno-SSC/Academia_infinity)
+
