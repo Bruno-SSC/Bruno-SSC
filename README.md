@@ -57,17 +57,15 @@ X
 
 <h3 align="center"> GitHub Analytics ⚙️</h3>
 
-<p align="left">
 <img align="left" width="400em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react&border_radius=30"/>
 <img align="right" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react&border_radius=30"/>
-</p>
 
+<br><br>
+<br><br>
 <br><br>
 
  ##
  
-<br><br>
-
 <h3 align="center" color="green"> Destaques 🔰</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Academia_infinity&theme=react&border_radius=30)](https://github.com/Bruno-SSC/Academia_infinity)
