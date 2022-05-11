@@ -7,7 +7,7 @@
  <li align="left" > 🦾 be better than I was yesterday </li>
  <li align="left" > 🏭 chasing my dreams</li>
  <li align="left" > 🧗‍ im beginner, everyday searching for growth</li>
- <li align="left" > ⚡ on my way to be a full stack sênior </li>
+ <li align="left" > ⚡ on my way to be a front-end developer </li>
  <li align="left" > 🐞 others get hugs, i get bugs in my code </li>
  </div>
  
