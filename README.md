@@ -57,8 +57,8 @@ X
 <h3 align="center"> GitHub Analytics ⚙️</h3>
 
 <div align="center">
-<img  width="450em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react&border_radius=30"/>
-<img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react&border_radius=30"/>
+<img  width="350em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react&border_radius=30"/>
+<img  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react&border_radius=30"/>
 </div>
 
 <br><br>
