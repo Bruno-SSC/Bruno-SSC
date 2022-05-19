@@ -1,7 +1,6 @@
 
  <h1 align="center"> <img height="40px" align="left" src="/assets/seta.png"/> THIS GUY OVER THERE, IT'S ME 😎 </h1>
 
- <img align="right" height="160px" src="/assets/gato.gif">
 
  <div style>
  <li align="left" > 🦾 be better than I was yesterday </li>
@@ -59,7 +58,7 @@ X
 
 <div align="center">
 <img  width="450em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react&border_radius=30"/>
-<img  width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react&border_radius=30"/>
+<img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react&border_radius=30"/>
 </div>
 
 <br><br>
