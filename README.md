@@ -14,17 +14,19 @@
  
  <h3> Studying now 🛡 </h3>
 
-<img align="left" height="60px" src="./assets/swords.png"/>
+<img align="left" height="40px" src="./assets/swords.png"/>
  
-<img align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 X
-<img align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 X
-<img align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" height="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 X
-<img align="center" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+X
+<img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<img align="right" height="60px" src="./assets/swords.png"/>
+<img align="right" height="40px" src="./assets/swords.png"/>
  
 </div>
 
