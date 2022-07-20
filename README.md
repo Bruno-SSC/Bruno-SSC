@@ -79,14 +79,14 @@ X
 
 ---
 
-<div align="left">
+<div align="center">
 
 <h3 align="center"> Trabalhos 🔰 </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Academia-infinity&theme=react&border_radius=30)](https://github.com/Bruno-SSC/Academia_infinity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Academia-infinity&theme=react&border_radius=30)](https://github.com/Bruno-SSC/Academia-infinity)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Loguinho&theme=react&border_radius=30)](https://github.com/Bruno-SSC/Academia_infinity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=Loguinho&theme=react&border_radius=30)](https://github.com/Bruno-SSC/Loguinho)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=My_portfolio&theme=react&border_radius=30)](https://github.com/Bruno-SSC/Academia_infinity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SSC&repo=My_portfolio&theme=react&border_radius=30)](https://github.com/Bruno-SSC/My_portfolio)
 
 </div>
