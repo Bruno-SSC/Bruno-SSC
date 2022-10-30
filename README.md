@@ -10,22 +10,24 @@
 
 ---
 
-<div align="center" >
- 
- <h3> Studying now 🛡 </h3>
+<div align="center">
 
-<img align="left" height="40px" src="./assets/swords.png"/>
- 
-<img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-X
-<img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-X
-<img align="center" height="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-X
-<img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<h3> Studying now 🛡 </h3>
 
-<img align="right" height="40px" src="./assets/swords.png"/>
- 
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+&nbsp
+&nbsp
+&nbsp
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+&nbsp
+&nbsp
+&nbsp
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+&nbsp
+&nbsp
+&nbsp
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
 </div>
 
 ---
@@ -34,8 +36,8 @@ X
 
 <h3> Social 📱 </h3>
 
-<a href="https://www.linkedin.com/in/bruno-velkia-652650200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<a href="https://linkedin.com/in/bruno-cardoso-652650200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/bruno.velkia/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
  
@@ -55,10 +57,9 @@ X
 
 <h3 align="center"> Fontes de material para este readme 📚 </h3>
 
- <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>  </li>
+ <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></li>
  <li><a href="https://github.com/rafaballerini">Rafaella Ballerini</a></li>
  <li><a href="https://github.com/maykbrito">Mayk Brito</a></li>
- <li><a href="https://www.flaticon.com/br/icones-gratis/espada">Icone das espadas</a></li>
 
 </div>
 
@@ -68,11 +69,9 @@ X
 
 <h3> GitHub Analytics ⚙️</h3>
 
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react&border_radius=30"/>
-
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react&border_radius=30"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SSC&show_icons=true&theme=react&border_radius=30"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SSC&layout=compact&theme=react&border_radius=30"/>
 
 </div>
 
 ---
-
