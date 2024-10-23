@@ -5,7 +5,7 @@
 🏭 Chasing my dreams.
 🧗‍ I'm beginner, everyday searching for growth.
 ⚡ On my way to be a front-end developer.
-🐞 Others get hugs, i get bugs in my code.
+🐞 like hugs, hate bugs.
 ```
 
 ---
